@@ -1,10 +1,15 @@
 PRODUCT_PACKAGES += \
+	treble-overlay-asus-zenfone5 \
 	treble-overlay-huawei \
+	treble-overlay-huawei-telephony \
 	treble-overlay-NavBar \
 	treble-overlay-NightMode \
 	treble-overlay-Telephony-LTE \
 	treble-overlay-SystemUI-FalseLocks \
 	treble-overlay-devinputjack \
+	treble-overlay-oneplus-op6 \
+	treble-overlay-xiaomi-mi8 \
+	treble-overlay-xiaomi-mimix2s \
 	HardwareOverlayPicker \
 	QtiAudio \
 	Touchscreen

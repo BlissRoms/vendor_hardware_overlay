@@ -16,8 +16,9 @@ PRODUCT_PACKAGES += \
 	treble-overlay-xiaomi-mimix2s \
 	HardwareOverlayPicker \
 	QtiAudio \
-	Touchscreen
-
+	Touchscreen \
+        android.hidl.base@1.0 \
+        android.hidl.manager@1.0
 
 PRODUCT_PACKAGES += \
 	hw-fpnav-daemon

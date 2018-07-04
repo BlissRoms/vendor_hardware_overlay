@@ -70,3 +70,8 @@ PRODUCT_PACKAGES += \
 	treble-overlay-xiaomi-redminote7 \
 	treble-overlay-xiaomi-redmis2 \
 
+# Huawei Camera
+PRODUCT_COPY_FILES += \
+    $(LOCAL_PATH)/HwCamera2/lib/android.hidl.base@1.0.so:system/lib/android.hid$
+    $(LOCAL_PATH)/HwCamera2/lib64/android.hidl.base@1.0.so:system/lib64/android$
+    $(LOCAL_PATH)/HwCamera2/lib64/libHwPostCamera_jni.so:system/lib64/libHwPost$

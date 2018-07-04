@@ -32,9 +32,9 @@ PRODUCT_PACKAGES += \
 
 # Huawei Camera
 PRODUCT_COPY_FILES += \
-    vendor/hardware_overlay/Huawei/HwCamera2/lib/android.hidl.base@1.0.so:system/lib/android.hid$
-    vendor/hardware_overlay/Huawei/HwCamera2/lib64/android.hidl.base@1.0.so:system/lib64/android$
-    vendor/hardware_overlay/Huawei/HwCamera2/lib64/libHwPostCamera_jni.so:system/lib64/libHwPost$
+    $(LOCAL_PATH)/HwCamera2/lib/android.hidl.base@1.0.so:system/lib/android.hid$
+    $(LOCAL_PATH)/HwCamera2/lib64/android.hidl.base@1.0.so:system/lib64/android$
+    $(LOCAL_PATH)/HwCamera2/lib64/libHwPostCamera_jni.so:system/lib64/libHwPost$
 
 PRODUCT_PACKAGES += \
     HwCamera2

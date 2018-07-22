@@ -1,6 +1,7 @@
 PRODUCT_PACKAGES += \
 	treble-overlay-asus-zenfone5 \
 	treble-overlay-huawei \
+	treble-overlay-huawei-p20l \
 	treble-overlay-huawei-telephony \
 	treble-overlay-lg-g7 \
 	treble-overlay-NavBar \
@@ -11,11 +12,14 @@ PRODUCT_PACKAGES += \
 	treble-overlay-SystemUI-FalseLocks \
 	treble-overlay-devinputjack \
 	treble-overlay-oneplus-op6 \
+	treble-overlay-moto-g6plus \
 	treble-overlay-wifi5g \
+	treble-overlay-samsung-s9 \
 	treble-overlay-xiaomi-mi8 \
 	treble-overlay-xiaomi-mi8ee \
 	treble-overlay-xiaomi-mi8se \
 	treble-overlay-xiaomi-mimix2s \
+	treble-overlay-xiaomi-redmi6pro \
 	HardwareOverlayPicker \
 	QtiAudio \
 	Touchscreen

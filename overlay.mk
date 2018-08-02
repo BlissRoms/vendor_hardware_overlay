@@ -25,10 +25,8 @@ PRODUCT_PACKAGES += \
 	HardwareOverlayPicker \
 	QtiAudio \
 	Touchscreen \
-    android.hidl.base@1.0 \
-    android.hidl.manager@1.0 \
-    HotwordEnrollmentOKGoogleHI6403 \
-    HotwordEnrollmentXGoogleHI6403
+        android.hidl.base@1.0 \
+        android.hidl.manager@1.0
 
 PRODUCT_PACKAGES += \
 	hw-fpnav-daemon

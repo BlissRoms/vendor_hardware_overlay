@@ -8,6 +8,8 @@ PRODUCT_PACKAGES += \
 	treble-overlay-NightMode \
 	treble-overlay-Telephony-LTE \
 	treble-overlay-sharp-s2 \
+	treble-overlay-sharp-s2-los \
+	treble-overlay-sharp-s2-snap \
 	treble-overlay-SystemUI-FalseLocks \
 	treble-overlay-devinputjack \
 	treble-overlay-oneplus-op6 \

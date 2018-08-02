@@ -6,6 +6,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-lg-g7 \
 	treble-overlay-NavBar \
 	treble-overlay-NightMode \
+	treble-overlay-Essential_PH1 \
 	treble-overlay-Telephony-LTE \
 	treble-overlay-sharp-s2 \
 	treble-overlay-sharp-s2-los \

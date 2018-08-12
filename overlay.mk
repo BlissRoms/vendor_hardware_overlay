@@ -27,11 +27,10 @@ PRODUCT_PACKAGES += \
 	treble-overlay-xiaomi-mia2lite \
 	treble-overlay-xiaomi-mipad4 \
 	treble-overlay-xiaomi-pocof1 \
-	HardwareOverlayPicker \
-	QtiAudio \
 	Touchscreen \
-        android.hidl.base@1.0 \
-        android.hidl.manager@1.0
+    android.hidl.base@1.0 \
+    android.hidl.manager@1.0 \
+	TrebleApp \
 
 # Huawei Camera
 PRODUCT_COPY_FILES += \

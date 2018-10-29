@@ -42,6 +42,11 @@ PRODUCT_PACKAGES += \
     android.hidl.base@1.0 \
     android.hidl.manager@1.0 \
 	TrebleApp \
+	treble-overlay-nokia-b2n \
+	treble-overlay-nokia-drg \
+	treble-overlay-lenovo-z5 \
+	HardwareOverlayPicker \
+	QtiAudio
 
 # Huawei Camera
 PRODUCT_COPY_FILES += \

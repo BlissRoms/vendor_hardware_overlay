@@ -33,6 +33,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-lg-v40 \
 	treble-overlay-moto-g6 \
 	treble-overlay-moto-g6plus \
+	treble-overlay-Essential_PH1 \
 	treble-overlay-nokia-b2n \
 	treble-overlay-nokia-drg \
 	treble-overlay-oneplus-op6 \
